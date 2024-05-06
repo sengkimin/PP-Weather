@@ -35,7 +35,7 @@
 }
 
 .box {
-    width: 75%;
+    width: 65%;
     height: auto;
     border: 1px solid #dadcde;
     margin: auto;
@@ -65,7 +65,7 @@
 }
 
 .left img {
-    width: 50%;
+    width: 45%;
     height: 150px;
     margin-top: 20px;
 }
